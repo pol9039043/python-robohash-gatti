@@ -1,0 +1,9 @@
+> pip install pyinstaller
+> pyinstaller -F gatti.py
+
+with icon
+> pyinstaller -F -i gatti.ico gatti.py
+
+
+file is created in .\dist
+
